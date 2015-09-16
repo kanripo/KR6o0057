@@ -1,23 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:15.021978
+#+DATE: 2015-08-30 21:00:16.263106
 #+TITLE: 大乘緣生論
 #+PROPERTY: CBETA_ID T32n1653
 #+PROPERTY: ID KR6o0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1653
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0057_T_001-0486b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1653[No.1652]¶
-
- 大乘緣生論一卷(聖者欝楞迦造)¶
+No. 1653 [No. 1652]¶
+大乘緣生論一卷(聖者欝楞迦造)¶
 ¶
-開府儀同三司特進試鴻臚卿¶
-肅國公食邑三千戶賜紫贈司空¶
-諡大鑒正號大廣智大興善寺¶
-三藏沙門不空奉　詔譯¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑒正號大廣智大興善寺三藏沙門不空奉　詔譯¶
 
 #+BEGIN_VERSE
 「　從一生於三
